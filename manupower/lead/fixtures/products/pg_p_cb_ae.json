@@ -1,0 +1,248 @@
+[
+    {
+        "industry": "Protective Gear",
+        "name": "Plastic Helmets",
+        "description": "Helmets made from plastic for protecting the head during various activities and professions.",
+        "granual_type": "ABS"
+    },
+    {
+        "industry": "Protective Gear",
+        "name": "Plastic Face Shields",
+        "description": "Face shields made from plastic for protecting the face from splashes, debris, and other hazards.",
+        "granual_type": "PC"
+    },
+    {
+        "industry": "Protective Gear",
+        "name": "Plastic Safety Goggles",
+        "description": "Goggles made from plastic for protecting the eyes from hazardous materials and environments.",
+        "granual_type": "PC"
+    },
+    {
+        "industry": "Protective Gear",
+        "name": "Plastic Knee Pads",
+        "description": "Knee pads made from plastic for protecting the knees during activities that involve kneeling.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Protective Gear",
+        "name": "Plastic Elbow Pads",
+        "description": "Elbow pads made from plastic for protecting the elbows during activities that involve physical contact or impact.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Protective Gear",
+        "name": "Plastic Respirators",
+        "description": "Respirators made from plastic for protecting the respiratory system from harmful particles and gases.",
+        "granual_type": "PP"
+    },
+    {
+        "industry": "Protective Gear",
+        "name": "Plastic Shin Guards",
+        "description": "Shin guards made from plastic for protecting the shins during sports and physical activities.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Protective Gear",
+        "name": "Plastic Ear Plugs",
+        "description": "Ear plugs made from plastic for protecting the ears from loud noises and water.",
+        "granual_type": "TPU"
+    },
+    {
+        "industry": "Protective Gear",
+        "name": "Plastic Hard Hats",
+        "description": "Hard hats made from plastic for protecting the head in construction and industrial settings.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Protective Gear",
+        "name": "Plastic Protective Vests",
+        "description": "Vests made from plastic for protecting the torso from impact and abrasion.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Pallets",
+        "name": "Plastic Stackable Pallets",
+        "description": "Pallets made from durable plastic designed to be stacked for efficient storage.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Pallets",
+        "name": "Plastic Nestable Pallets",
+        "description": "Pallets made from plastic designed to nest together for space-saving storage when not in use.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Pallets",
+        "name": "Plastic Rackable Pallets",
+        "description": "Pallets made from plastic designed to fit on racks for optimized storage in warehouses.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Pallets",
+        "name": "Plastic Export Pallets",
+        "description": "Pallets made from plastic designed for international shipping and export.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Pallets",
+        "name": "Plastic Drum Pallets",
+        "description": "Pallets made from plastic designed to hold and transport drums and barrels.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Pallets",
+        "name": "Plastic Display Pallets",
+        "description": "Pallets made from plastic designed for product display and retail settings.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Pallets",
+        "name": "Plastic Hygiene Pallets",
+        "description": "Pallets made from plastic designed for use in hygienic environments such as food and pharmaceuticals.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Pallets",
+        "name": "Plastic Reversible Pallets",
+        "description": "Pallets made from plastic designed to be used on both sides for extended usability.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Pallets",
+        "name": "Plastic One-Way Pallets",
+        "description": "Pallets made from plastic designed for single use, typically for export or one-way shipments.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Pallets",
+        "name": "Plastic Heavy-Duty Pallets",
+        "description": "Pallets made from plastic designed to carry heavy loads in industrial settings.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Construction Barriers",
+        "name": "Plastic Traffic Barriers",
+        "description": "Barriers made from plastic for directing or restricting vehicle and pedestrian traffic.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Construction Barriers",
+        "name": "Plastic Water-Filled Barriers",
+        "description": "Barriers made from plastic that can be filled with water to provide stability and impact resistance.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Construction Barriers",
+        "name": "Plastic Safety Fences",
+        "description": "Fences made from plastic for creating safety zones and barriers around construction sites.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Construction Barriers",
+        "name": "Plastic Barricade Lights",
+        "description": "Lights made from plastic for attaching to barricades to increase visibility.",
+        "granual_type": "PC"
+    },
+    {
+        "industry": "Construction Barriers",
+        "name": "Plastic Cone Bars",
+        "description": "Extendable bars made from plastic for connecting traffic cones to form barriers.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Construction Barriers",
+        "name": "Plastic Pedestrian Barriers",
+        "description": "Barriers made from plastic for directing and controlling pedestrian movement in construction zones.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Construction Barriers",
+        "name": "Plastic Crowd Control Barriers",
+        "description": "Barriers made from plastic for managing crowds and directing pedestrian traffic at events and in public spaces.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Construction Barriers",
+        "name": "Plastic Work Zone Barriers",
+        "description": "Barriers made from plastic for delineating work zones and protecting workers in construction areas.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Construction Barriers",
+        "name": "Plastic Snow Fencing",
+        "description": "Fencing made from plastic for controlling snow drifts and managing snow accumulation in certain areas.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Construction Barriers",
+        "name": "Plastic Warning Barriers",
+        "description": "Barriers made from plastic for marking hazardous areas and providing warnings in construction sites.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Construction Barriers",
+        "name": "Plastic Temporary Fencing",
+        "description": "Fencing made from plastic for creating temporary boundaries and barriers around construction sites and events.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Automotive Exteriors",
+        "name": "Plastic Bumpers",
+        "description": "Bumpers made from plastic for protecting the front and rear of vehicles.",
+        "granual_type": "PP"
+    },
+    {
+        "industry": "Automotive Exteriors",
+        "name": "Plastic Fenders",
+        "description": "Fenders made from plastic for protecting the wheel wells and body of vehicles.",
+        "granual_type": "PP"
+    },
+    {
+        "industry": "Automotive Exteriors",
+        "name": "Plastic Grilles",
+        "description": "Grilles made from plastic for the front of vehicles to allow airflow and protect the radiator.",
+        "granual_type": "ABS"
+    },
+    {
+        "industry": "Automotive Exteriors",
+        "name": "Plastic Side Mirrors",
+        "description": "Side mirrors made from plastic for vehicles to provide rear and side visibility.",
+        "granual_type": "ABS"
+    },
+    {
+        "industry": "Automotive Exteriors",
+        "name": "Plastic Spoilers",
+        "description": "Spoilers made from plastic for improving the aerodynamics of vehicles.",
+        "granual_type": "ABS"
+    },
+    {
+        "industry": "Automotive Exteriors",
+        "name": "Plastic Body Panels",
+        "description": "Body panels made from plastic for the exterior of vehicles to reduce weight and improve fuel efficiency.",
+        "granual_type": "PP"
+    },
+    {
+        "industry": "Automotive Exteriors",
+        "name": "Plastic Roof Racks",
+        "description": "Roof racks made from plastic for transporting goods on top of vehicles.",
+        "granual_type": "ABS"
+    },
+    {
+        "industry": "Automotive Exteriors",
+        "name": "Plastic Trim",
+        "description": "Trim pieces made from plastic for the exterior of vehicles to enhance appearance and protect edges.",
+        "granual_type": "PP"
+    },
+    {
+        "industry": "Automotive Exteriors",
+        "name": "Plastic Wheel Covers",
+        "description": "Covers made from plastic for protecting and enhancing the appearance of vehicle wheels.",
+        "granual_type": "ABS"
+    },
+    {
+        "industry": "Automotive Exteriors",
+        "name": "Plastic Wind Deflectors",
+        "description": "Deflectors made from plastic for improving airflow around vehicle windows and reducing wind noise.",
+        "granual_type": "PC"
+    }
+]

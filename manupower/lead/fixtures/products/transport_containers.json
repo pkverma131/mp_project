@@ -1,0 +1,62 @@
+[
+    {
+        "industry": "Transport Containers",
+        "name": "Plastic Crates",
+        "description": "Durable plastic crates for transporting goods and materials.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Transport Containers",
+        "name": "Plastic Pallets",
+        "description": "Plastic pallets for efficient handling and transport of goods.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Transport Containers",
+        "name": "Plastic Drums",
+        "description": "Large plastic drums for transporting liquids and bulk materials.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Transport Containers",
+        "name": "Plastic Storage Bins",
+        "description": "Stackable plastic bins for organizing and transporting items.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Transport Containers",
+        "name": "Plastic Cargo Boxes",
+        "description": "Heavy-duty plastic cargo boxes for secure transport of goods.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Transport Containers",
+        "name": "Plastic Jerry Cans",
+        "description": "Plastic containers with handles for transporting liquids.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Transport Containers",
+        "name": "Plastic Shipping Containers",
+        "description": "Lightweight plastic containers for shipping and logistics.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Transport Containers",
+        "name": "Plastic Tote Boxes",
+        "description": "Plastic tote boxes with lids for transporting and storing items.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Transport Containers",
+        "name": "Plastic IBC Tanks",
+        "description": "Intermediate bulk containers (IBCs) made from plastic for transporting liquids and bulk materials.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Transport Containers",
+        "name": "Plastic Material Handling Bins",
+        "description": "Bins made from durable plastic for handling and transporting materials in industrial settings.",
+        "granual_type": "HDPE"
+    }
+]

@@ -1,0 +1,265 @@
+{
+    "categories": [
+      {
+        "name": "Packaging",
+        "granual_type_used": "HDPE",
+        "description": "Products such as bottles and containers for beverages, detergents, and chemicals."
+      },
+      {
+        "name": "Construction",
+        "granual_type_used": "HDPE",
+        "description": "Pipes and fittings for water and gas distribution, plastic lumber for outdoor decking."
+      },
+      {
+        "name": "Furniture",
+        "granual_type_used": "HDPE",
+        "description": "Plastic furniture for indoor and outdoor use."
+      },
+      {
+        "name": "Automotive",
+        "granual_type_used": "HDPE",
+        "description": "Fuel tanks, bumpers, and other automotive parts."
+      },
+      {
+        "name": "Household",
+        "granual_type_used": "HDPE",
+        "description": "Trash cans, storage bins, and other household items."
+      },
+      {
+        "name": "Toys",
+        "granual_type_used": "LDPE",
+        "description": "Various toys and children's products."
+      },
+      {
+        "name": "Medical",
+        "granual_type_used": "HDPE",
+        "description": "Medical containers, tubes, and other healthcare products."
+      },
+      {
+        "name": "Agriculture",
+        "granual_type_used": "LDPE",
+        "description": "Agricultural films, bags, and other farming products."
+      },
+      {
+        "name": "Electronics",
+        "granual_type_used": "HDPE",
+        "description": "Casing for electronic devices and insulation materials."
+      },
+      {
+        "name": "Industrial",
+        "granual_type_used": "HDPE",
+        "description": "Industrial containers, tanks, and other heavy-duty products."
+      },
+      {
+        "name": "Textiles",
+        "granual_type_used": "LDPE",
+        "description": "Textile coatings and fibers."
+      },
+      {
+        "name": "Sporting Goods",
+        "granual_type_used": "HDPE",
+        "description": "Equipment and accessories for sports and outdoor activities."
+      },
+      {
+        "name": "Footwear",
+        "granual_type_used": "LDPE",
+        "description": "Soles and parts of shoes and other footwear."
+      },
+      {
+        "name": "Stationery",
+        "granual_type_used": "LDPE",
+        "description": "Office supplies, pens, and other stationery items."
+      },
+      {
+        "name": "Clothing",
+        "granual_type_used": "LDPE",
+        "description": "Clothing accessories and components."
+      },
+      {
+        "name": "Garden",
+        "granual_type_used": "HDPE",
+        "description": "Garden tools, pots, and other gardening products."
+      },
+      {
+        "name": "Food Storage",
+        "granual_type_used": "LDPE",
+        "description": "Food containers, wraps, and bags."
+      },
+      {
+        "name": "Pet Products",
+        "granual_type_used": "HDPE",
+        "description": "Pet toys, feeders, and other pet accessories."
+      },
+      {
+        "name": "Safety Equipment",
+        "granual_type_used": "HDPE",
+        "description": "Helmets, guards, and other safety gear."
+      },
+      {
+        "name": "Marine",
+        "granual_type_used": "HDPE",
+        "description": "Boat parts, docks, and other marine products."
+      },
+      {
+        "name": "Recycling Bins",
+        "granual_type_used": "HDPE",
+        "description": "Bins and containers for recycling purposes."
+      },
+      {
+        "name": "Signage",
+        "granual_type_used": "HDPE",
+        "description": "Signs and displays for various uses."
+      },
+      {
+        "name": "Retail Displays",
+        "granual_type_used": "LDPE",
+        "description": "Retail display units and packaging materials."
+      },
+      {
+        "name": "Plumbing",
+        "granual_type_used": "HDPE",
+        "description": "Plumbing pipes and fittings."
+      },
+      {
+        "name": "Roofing",
+        "granual_type_used": "HDPE",
+        "description": "Roofing membranes and tiles."
+      },
+      {
+        "name": "Automotive Interiors",
+        "granual_type_used": "LDPE",
+        "description": "Interior panels and components for vehicles."
+      },
+      {
+        "name": "Waste Management",
+        "granual_type_used": "HDPE",
+        "description": "Bins, bags, and other waste management products."
+      },
+      {
+        "name": "Food and Beverage",
+        "granual_type_used": "LDPE",
+        "description": "Food packaging, beverage bottles, and containers."
+      },
+      {
+        "name": "Pharmaceutical",
+        "granual_type_used": "HDPE",
+        "description": "Pharmaceutical packaging and containers."
+      },
+      {
+        "name": "Luggage",
+        "granual_type_used": "HDPE",
+        "description": "Luggage, travel bags, and accessories."
+      },
+      {
+        "name": "Baby Products",
+        "granual_type_used": "LDPE",
+        "description": "Baby bottles, toys, and other baby accessories."
+      },
+      {
+        "name": "DIY",
+        "granual_type_used": "HDPE",
+        "description": "DIY tools and materials."
+      },
+      {
+        "name": "Cleaning Supplies",
+        "granual_type_used": "HDPE",
+        "description": "Buckets, mop handles, and cleaning tools."
+      },
+      {
+        "name": "Office Equipment",
+        "granual_type_used": "HDPE",
+        "description": "Office furniture and equipment casings."
+      },
+      {
+        "name": "Party Supplies",
+        "granual_type_used": "LDPE",
+        "description": "Disposable cups, plates, and other party supplies."
+      },
+      {
+        "name": "Automotive Exteriors",
+        "granual_type_used": "HDPE",
+        "description": "Exterior panels and bumpers."
+      },
+      {
+        "name": "Construction Barriers",
+        "granual_type_used": "HDPE",
+        "description": "Barriers and safety equipment for construction sites."
+      },
+      {
+        "name": "Pallets",
+        "granual_type_used": "HDPE",
+        "description": "Pallets for shipping and storage."
+      },
+      {
+        "name": "Protective Gear",
+        "granual_type_used": "HDPE",
+        "description": "Gloves, masks, and other protective equipment."
+      },
+      {
+        "name": "Cosmetic Packaging",
+        "granual_type_used": "HDPE",
+        "description": "Bottles, jars, and other cosmetic containers."
+      },
+      {
+        "name": "Horticulture",
+        "granual_type_used": "LDPE",
+        "description": "Plant pots, trays, and other horticultural products."
+      },
+      {
+        "name": "Fishing",
+        "granual_type_used": "HDPE",
+        "description": "Fishing gear and accessories."
+      },
+      {
+        "name": "Sports Equipment",
+        "granual_type_used": "HDPE",
+        "description": "Equipment for various sports activities."
+      },
+      {
+        "name": "Solar Panel Components",
+        "granual_type_used": "HDPE",
+        "description": "Plastic components used in solar panels."
+      },
+      {
+        "name": "Transport Containers",
+        "granual_type_used": "HDPE",
+        "description": "Containers for transporting goods."
+      },
+      {
+        "name": "Event Management",
+        "granual_type_used": "HDPE",
+        "description": "Temporary structures and barriers for events."
+      },
+      {
+        "name": "Promotional Products",
+        "granual_type_used": "LDPE",
+        "description": "Branded promotional items."
+      },
+      {
+        "name": "Educational Supplies",
+        "granual_type_used": "LDPE",
+        "description": "Supplies and tools for educational purposes."
+      },
+      {
+        "name": "Water Storage",
+        "granual_type_used": "HDPE",
+        "description": "Tanks and containers for water storage."
+      },
+      {
+        "name": "Decorative Items",
+        "granual_type_used": "LDPE",
+        "description": "Decorative household and garden items."
+      },
+      {
+        "name": "Signboards",
+        "granual_type_used": "HDPE",
+        "description": "Signboards for various applications."
+      },
+      {
+        "name": "Soundproofing",
+        "granual_type_used": "HDPE",
+        "description": "Materials for soundproofing."
+      }
+    ]
+  }
+  

@@ -1,0 +1,62 @@
+[
+    {
+        "industry": "Event Management",
+        "name": "Plastic Chairs",
+        "description": "Lightweight and stackable plastic chairs for seating at events and gatherings.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Event Management",
+        "name": "Plastic Tables",
+        "description": "Durable plastic tables for use in events, conferences, and parties.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Event Management",
+        "name": "Plastic Barriers",
+        "description": "Portable plastic barriers for crowd control and safety at events.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Event Management",
+        "name": "Plastic Tents",
+        "description": "Tents with plastic components for outdoor events and temporary structures.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Event Management",
+        "name": "Plastic Stanchions",
+        "description": "Plastic stanchions used to create queues and manage crowd flow at events.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Event Management",
+        "name": "Plastic Sign Holders",
+        "description": "Sign holders made from plastic for displaying information and directions at events.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Event Management",
+        "name": "Plastic Cutlery",
+        "description": "Disposable plastic cutlery for serving food at events and parties.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Event Management",
+        "name": "Plastic Cups",
+        "description": "Disposable plastic cups for beverages at events and gatherings.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Event Management",
+        "name": "Plastic Plates",
+        "description": "Disposable plastic plates for serving food at events and parties.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Event Management",
+        "name": "Plastic Banners",
+        "description": "Plastic banners for event signage and promotions.",
+        "granual_type": "HDPE"
+    }
+]

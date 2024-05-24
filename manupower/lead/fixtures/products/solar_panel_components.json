@@ -1,0 +1,62 @@
+[
+    {
+        "industry": "Solar Panel Components",
+        "name": "Plastic Junction Boxes",
+        "description": "Plastic enclosures for protecting electrical connections in solar panel systems.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Solar Panel Components",
+        "name": "Plastic Cable Ties",
+        "description": "Durable plastic ties for organizing and securing cables in solar installations.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Solar Panel Components",
+        "name": "Plastic Mounting Clips",
+        "description": "Plastic clips for mounting and securing solar panels to structures.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Solar Panel Components",
+        "name": "Plastic Connectors",
+        "description": "Plastic connectors for joining cables and components in solar panel systems.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Solar Panel Components",
+        "name": "Plastic Conduit",
+        "description": "Plastic conduit for protecting electrical wiring in solar panel installations.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Solar Panel Components",
+        "name": "Plastic Brackets",
+        "description": "Plastic brackets for supporting and securing solar panels.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Solar Panel Components",
+        "name": "Plastic Cable Glands",
+        "description": "Plastic glands for sealing and protecting cables entering junction boxes.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Solar Panel Components",
+        "name": "Plastic Enclosures",
+        "description": "Durable plastic enclosures for housing electrical components in solar systems.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Solar Panel Components",
+        "name": "Plastic Spacer Blocks",
+        "description": "Plastic blocks used for spacing and aligning solar panels during installation.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Solar Panel Components",
+        "name": "Plastic Insulators",
+        "description": "Plastic insulators for electrically isolating and protecting components in solar systems.",
+        "granual_type": "HDPE"
+    }
+]

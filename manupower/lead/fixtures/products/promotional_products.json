@@ -1,0 +1,62 @@
+[
+    {
+        "industry": "Promotional Products",
+        "name": "Plastic Keychains",
+        "description": "Customizable plastic keychains with company logos and branding for promotional purposes.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Promotional Products",
+        "name": "Plastic Pens",
+        "description": "Pens made from plastic, often branded with company logos for promotional giveaways.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Promotional Products",
+        "name": "Plastic Water Bottles",
+        "description": "Reusable plastic water bottles with customizable designs for marketing and promotions.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Promotional Products",
+        "name": "Plastic Badges",
+        "description": "Plastic badges and name tags with company branding for events and promotions.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Promotional Products",
+        "name": "Plastic Tote Bags",
+        "description": "Durable plastic tote bags with branded designs for promotional use.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Promotional Products",
+        "name": "Plastic USB Drives",
+        "description": "Customizable USB drives made from plastic, often used as corporate gifts.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Promotional Products",
+        "name": "Plastic Coasters",
+        "description": "Branded plastic coasters for use in promotional events and corporate giveaways.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Promotional Products",
+        "name": "Plastic Phone Stands",
+        "description": "Plastic stands for holding mobile phones, often used in promotional campaigns.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Promotional Products",
+        "name": "Plastic Frisbees",
+        "description": "Customizable plastic frisbees with company logos, used as promotional items.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Promotional Products",
+        "name": "Plastic Wristbands",
+        "description": "Plastic wristbands with printed branding, commonly used for events and promotions.",
+        "granual_type": "LDPE"
+    }
+]

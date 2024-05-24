@@ -1,0 +1,177 @@
+[
+    {
+        "industry": "Household",
+        "name": "Plastic Food Containers",
+        "description": "Containers made from plastic for storing food items in kitchens and pantries.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Household",
+        "name": "Plastic Storage Baskets",
+        "description": "Baskets made from durable plastic for organizing and storing household items such as toys, laundry, and toiletries.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Household",
+        "name": "Plastic Laundry Hampers",
+        "description": "Hampers made from lightweight plastic for collecting and transporting laundry items.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Household",
+        "name": "Plastic Hangers",
+        "description": "Hangers made from plastic for hanging clothes in closets and wardrobes.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Household",
+        "name": "Plastic Trash Bins",
+        "description": "Bins made from sturdy plastic for collecting and disposing of household waste and recyclables.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Household",
+        "name": "Plastic Storage Bins",
+        "description": "Stackable bins made from durable plastic for organizing and storing various household items.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Household",
+        "name": "Plastic Clothes Pegs",
+        "description": "Pegs made from plastic for securing clothes on a clothesline or drying rack.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Household",
+        "name": "Plastic Utensil Organizers",
+        "description": "Organizers made from plastic for storing and sorting kitchen utensils such as spoons, forks, and knives.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Household",
+        "name": "Plastic Soap Dishes",
+        "description": "Dishes made from plastic for holding and draining soap bars in bathrooms and kitchens.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Household",
+        "name": "Plastic Coat Hooks",
+        "description": "Hooks made from plastic for hanging coats, jackets, and other clothing items.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Household",
+        "name": "Plastic Cutting Boards",
+        "description": "Boards made from durable plastic for cutting and chopping fruits, vegetables, and meats in kitchens.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Household",
+        "name": "Plastic Drawer Organizers",
+        "description": "Organizers made from plastic for sorting and organizing items in drawers such as socks, underwear, and accessories.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Household",
+        "name": "Plastic Dish Racks",
+        "description": "Racks made from plastic for drying dishes and utensils after washing.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Household",
+        "name": "Plastic Shoe Racks",
+        "description": "Racks made from plastic for organizing and storing shoes in closets and entryways.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Household",
+        "name": "Plastic Table Mats",
+        "description": "Mats made from plastic for protecting dining tables from spills, scratches, and heat.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Household",
+        "name": "Plastic Garbage Bags",
+        "description": "Bags made from strong plastic for lining trash bins and collecting household waste.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Household",
+        "name": "Plastic Kitchen Sponges",
+        "description": "Sponges made from plastic for scrubbing and cleaning dishes, countertops, and kitchen surfaces.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Household",
+        "name": "Plastic Storage Containers",
+        "description": "Containers made from plastic for storing various household items such as clothes, toys, and tools.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Household",
+        "name": "Plastic Shower Caddies",
+        "description": "Caddies made from plastic for organizing and storing shower accessories such as shampoo, soap, and razors.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Household",
+        "name": "Plastic Bathroom Racks",
+        "description": "Racks made from plastic for organizing and storing bathroom essentials such as towels, toiletries, and bath accessories.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Household",
+        "name": "Plastic Trash Can Liners",
+        "description": "Liners made from durable plastic for lining trash cans and bins, providing leak-proof protection against spills and odors.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Household",
+        "name": "Plastic Toothbrush Holders",
+        "description": "Holders made from plastic for storing toothbrushes and toothpaste in bathrooms and on countertops.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Household",
+        "name": "Plastic Food Storage Bags",
+        "description": "Bags made from food-grade plastic for storing and preserving food items such as fruits, vegetables, and leftovers.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Household",
+        "name": "Plastic Sink Strainers",
+        "description": "Strainers made from plastic for preventing food particles and debris from clogging kitchen and bathroom sinks.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Household",
+        "name": "Plastic Soap Dispensers",
+        "description": "Dispensers made from plastic for holding liquid soap and dispensing it in bathrooms and kitchens.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Household",
+        "name": "Plastic Serving Trays",
+        "description": "Trays made from lightweight plastic for serving snacks, drinks, and appetizers during parties and gatherings.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Household",
+        "name": "Plastic Garment Bags",
+        "description": "Bags made from plastic for protecting clothes from dust, moisture, and wrinkles during storage and travel.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Household",
+        "name": "Plastic Cable Ties",
+        "description": "Ties made from durable plastic for bundling and organizing cables, wires, and cords.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Household",
+        "name": "Plastic Ice Cube Trays",
+        "description": "Trays made from plastic for freezing water into ice cubes for use in beverages and cocktails.",
+        "granual_type": "LDPE"
+    }
+]
+

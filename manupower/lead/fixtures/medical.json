@@ -1,0 +1,129 @@
+[
+    {
+        "industry": "Medical",
+        "name": "Medical Containers",
+        "description": "Containers made from plastic for storing medications, specimens, and medical supplies.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Medical",
+        "name": "Plastic Tubes",
+        "description": "Tubes made from medical-grade plastic for various applications such as sample collection, catheterization, and infusion.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Medical",
+        "name": "Plastic Syringes",
+        "description": "Disposable syringes made from plastic for administering medications, vaccines, and other medical fluids.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Medical",
+        "name": "Plastic Specimen Jars",
+        "description": "Jars made from durable plastic for collecting and storing biological specimens in medical laboratories.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Medical",
+        "name": "Plastic Pill Organizers",
+        "description": "Organizers made from plastic for sorting and storing daily medications and supplements.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Medical",
+        "name": "Plastic Bedpans",
+        "description": "Bedpans made from lightweight plastic for patient use in hospitals and healthcare facilities.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Medical",
+        "name": "Plastic Pill Crusher",
+        "description": "Device made from plastic for crushing pills into a fine powder for easier administration to patients.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Medical",
+        "name": "Plastic Pill Dispensers",
+        "description": "Dispensers made from plastic for organizing and dispensing medications according to dosage schedules.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Medical",
+        "name": "Plastic Medical Carts",
+        "description": "Mobile carts made from durable plastic for transporting medical supplies, equipment, and medications within healthcare facilities.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Medical",
+        "name": "Plastic Medical Waste Bins",
+        "description": "Bins made from leak-proof plastic for the safe disposal of medical waste, including sharps and biohazardous materials.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Medical",
+        "name": "Plastic Urinals",
+        "description": "Urinals made from plastic for patient use in hospitals and healthcare facilities, particularly for bedridden or immobilized patients.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Medical",
+        "name": "Plastic Medical Aprons",
+        "description": "Disposable aprons made from plastic for protecting healthcare workers and patients from contamination during medical procedures.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Medical",
+        "name": "Plastic IV Bags",
+        "description": "Bags made from flexible plastic for intravenous fluid administration in hospitals and clinical settings.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Medical",
+        "name": "Plastic Medical Gloves",
+        "description": "Disposable gloves made from plastic for medical examinations, procedures, and general hygiene practices.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Medical",
+        "name": "Plastic Medical Face Shields",
+        "description": "Face shields made from transparent plastic for protecting healthcare workers from splashes, sprays, and respiratory droplets during medical procedures.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Medical",
+        "name": "Plastic Medical Splints",
+        "description": "Splints made from lightweight plastic for immobilizing and supporting injured limbs during medical treatment.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Medical",
+        "name": "Plastic Medical Tubing",
+        "description": "Flexible tubes made from medical-grade plastic for various medical applications such as drainage, ventilation, and fluid administration.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Medical",
+        "name": "Plastic Medical Trays",
+        "description": "Trays made from durable plastic for organizing and carrying medical instruments, supplies, and sterile dressings during procedures and examinations.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Medical",
+        "name": "Plastic Medical Catheters",
+        "description": "Catheters made from medical-grade plastic for drainage, fluid delivery, and diagnostic procedures in medical settings.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Medical",
+        "name": "Plastic Medical Splitters",
+        "description": "Splitters made from plastic for dividing medical gases or fluids into multiple channels or circuits for distribution to patients.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Medical",
+        "name": "Plastic Medical Clamps",
+        "description": "Clamps made from plastic for controlling or restricting the flow of fluids or gases in medical tubing or catheters.",
+        "granual_type": "HDPE"
+    }
+    ]
+    

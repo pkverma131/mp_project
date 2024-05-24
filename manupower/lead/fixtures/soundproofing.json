@@ -1,0 +1,62 @@
+[
+    {
+        "industry": "Soundproofing",
+        "name": "Plastic Acoustic Panels",
+        "description": "Acoustic panels made from plastic materials, designed to absorb sound waves and reduce noise levels in rooms and spaces.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Soundproofing",
+        "name": "Plastic Soundproof Curtains",
+        "description": "Curtains made from sound-absorbing plastic material, designed to block external noise and improve acoustics in rooms.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Soundproofing",
+        "name": "Plastic Soundproof Foam",
+        "description": "Foam panels made from plastic material, designed to dampen and absorb sound waves for soundproofing walls, ceilings, and floors.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Soundproofing",
+        "name": "Plastic Soundproof Insulation",
+        "description": "Insulation materials made from plastic fibers or foam, designed to block and absorb sound for soundproofing buildings and structures.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Soundproofing",
+        "name": "Plastic Soundproof Sealant",
+        "description": "Sealant made from plastic material, designed to fill gaps and cracks in walls, windows, and doors to prevent sound transmission.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Soundproofing",
+        "name": "Plastic Soundproof Tiles",
+        "description": "Tiles made from plastic material, designed to block and absorb sound waves for soundproofing walls, ceilings, and floors in residential and commercial spaces.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Soundproofing",
+        "name": "Plastic Soundproof Underlay",
+        "description": "Underlayment made from plastic material, designed to reduce impact noise and airborne sound transmission in flooring systems.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Soundproofing",
+        "name": "Plastic Soundproof Windows",
+        "description": "Windows with soundproofing features, made from plastic frames and double or triple glazing, designed to minimize noise intrusion from outside.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Soundproofing",
+        "name": "Plastic Soundproof Doors",
+        "description": "Doors made from plastic material, equipped with soundproofing seals and insulation, designed to block and absorb sound for noise reduction.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Soundproofing",
+        "name": "Plastic Soundproof Partitions",
+        "description": "Partition walls made from plastic material, designed to divide spaces and provide sound insulation for privacy and noise control.",
+        "granual_type": "LDPE"
+    }
+]

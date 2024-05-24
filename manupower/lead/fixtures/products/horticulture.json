@@ -1,0 +1,62 @@
+[
+    {
+        "industry": "Horticulture",
+        "name": "Plastic Flower Pots",
+        "description": "Durable plastic pots for growing flowers and plants.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Horticulture",
+        "name": "Plastic Seed Trays",
+        "description": "Plastic trays for starting seeds and growing seedlings.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Horticulture",
+        "name": "Plastic Plant Markers",
+        "description": "Plastic markers for labeling plants and garden rows.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Horticulture",
+        "name": "Plastic Watering Cans",
+        "description": "Lightweight plastic cans for watering plants and gardens.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Horticulture",
+        "name": "Plastic Garden Hoses",
+        "description": "Flexible plastic hoses for watering gardens and lawns.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Horticulture",
+        "name": "Plastic Mulch Film",
+        "description": "Plastic film used as mulch to retain soil moisture and control weeds.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Horticulture",
+        "name": "Plastic Greenhouse Panels",
+        "description": "Durable plastic panels for constructing greenhouses.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Horticulture",
+        "name": "Plastic Garden Fencing",
+        "description": "Plastic fencing for protecting gardens from animals and pests.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Horticulture",
+        "name": "Plastic Compost Bins",
+        "description": "Bins made from plastic for composting garden and kitchen waste.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Horticulture",
+        "name": "Plastic Drip Irrigation Tubing",
+        "description": "Plastic tubing used in drip irrigation systems to water plants efficiently.",
+        "granual_type": "HDPE"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "industry": "Decorative Items",
+        "name": "Plastic Vases",
+        "description": "Vases made from durable plastic material, suitable for displaying flowers and decorative arrangements.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Decorative Items",
+        "name": "Plastic Wall Clocks",
+        "description": "Clocks with plastic frames and dials, available in various designs and colors for wall decoration.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Decorative Items",
+        "name": "Plastic Picture Frames",
+        "description": "Frames made from lightweight plastic for displaying photographs and artwork on walls and tabletops.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Decorative Items",
+        "name": "Plastic Artificial Plants",
+        "description": "Artificial plants and flowers made from plastic for decorating homes and offices without the need for watering or maintenance.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Decorative Items",
+        "name": "Plastic Candles",
+        "description": "Candles made from plastic material, available in various colors and designs for decorative purposes.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Decorative Items",
+        "name": "Plastic Wall Decals",
+        "description": "Decals made from vinyl plastic for decorating walls with removable and repositionable designs and patterns.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Decorative Items",
+        "name": "Plastic Lamp Shades",
+        "description": "Lamp shades made from plastic material, available in various shapes and sizes for diffusing light and adding decorative accents to lamps.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Decorative Items",
+        "name": "Plastic Sculptures",
+        "description": "Sculptures and figurines made from plastic material, available in modern and traditional designs for tabletop and shelf decoration.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Decorative Items",
+        "name": "Plastic Wall Mirrors",
+        "description": "Mirrors with plastic frames, available in decorative designs and shapes for enhancing the aesthetics of walls.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Decorative Items",
+        "name": "Plastic Decorative Bowls",
+        "description": "Bowls made from plastic for displaying decorative items such as potpourri, fruits, and ornaments on tabletops and shelves.",
+        "granual_type": "LDPE"
+    }
+]

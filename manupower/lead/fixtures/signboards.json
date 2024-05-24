@@ -1,0 +1,62 @@
+[
+    {
+        "industry": "Signboards",
+        "name": "Plastic Outdoor Signboards",
+        "description": "Durable signboards made from weather-resistant plastic materials, suitable for outdoor advertising and signage applications.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Signboards",
+        "name": "Plastic Indoor Signboards",
+        "description": "Lightweight signboards made from plastic materials, ideal for indoor signage and display purposes in commercial and retail settings.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Signboards",
+        "name": "Plastic Safety Signboards",
+        "description": "Safety signboards made from durable plastic materials, featuring warning symbols and messages to indicate potential hazards and safety precautions.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Signboards",
+        "name": "Plastic Directional Signboards",
+        "description": "Directional signboards made from sturdy plastic materials, used to provide guidance and navigation instructions in public spaces and facilities.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Signboards",
+        "name": "Plastic Traffic Signboards",
+        "description": "Traffic signboards made from reflective plastic materials, installed on roads and highways to convey regulatory, warning, and informational messages to drivers.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Signboards",
+        "name": "Plastic Advertising Signboards",
+        "description": "Advertising signboards made from lightweight plastic materials, commonly used for promotional displays and branding purposes in retail and commercial environments.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Signboards",
+        "name": "Plastic Custom Signboards",
+        "description": "Customizable signboards made from plastic materials, allowing businesses and organizations to create personalized signage solutions for specific applications and branding needs.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Signboards",
+        "name": "Plastic Illuminated Signboards",
+        "description": "Illuminated signboards made from plastic materials, featuring built-in lighting elements such as LEDs or fluorescent tubes for enhanced visibility and advertising impact.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Signboards",
+        "name": "Plastic Safety Exit Signboards",
+        "description": "Emergency exit signboards made from durable plastic materials, designed to indicate the location of emergency exits and escape routes in buildings and facilities.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Signboards",
+        "name": "Plastic Informational Signboards",
+        "description": "Informational signboards made from recyclable plastic materials, used to provide important messages, instructions, and guidelines to the public in various settings.",
+        "granual_type": "LDPE"
+    }
+]

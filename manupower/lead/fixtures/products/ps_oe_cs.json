@@ -1,0 +1,182 @@
+[
+    {
+        "industry": "Party Supplies",
+        "name": "Plastic Party Plates",
+        "description": "Disposable plates made from plastic for serving food at parties.",
+        "granual_type": "PP"
+    },
+    {
+        "industry": "Party Supplies",
+        "name": "Plastic Party Cups",
+        "description": "Disposable cups made from plastic for serving beverages at parties.",
+        "granual_type": "PS"
+    },
+    {
+        "industry": "Party Supplies",
+        "name": "Plastic Party Utensils",
+        "description": "Disposable utensils made from plastic for use at parties.",
+        "granual_type": "PS"
+    },
+    {
+        "industry": "Party Supplies",
+        "name": "Plastic Party Decorations",
+        "description": "Decorations made from plastic for decorating party venues.",
+        "granual_type": "PVC"
+    },
+    {
+        "industry": "Party Supplies",
+        "name": "Plastic Party Favors",
+        "description": "Small toys and gifts made from plastic to give to guests at parties.",
+        "granual_type": "PP"
+    },
+    {
+        "industry": "Party Supplies",
+        "name": "Plastic Table Covers",
+        "description": "Disposable table covers made from plastic for protecting tables at parties.",
+        "granual_type": "PE"
+    },
+    {
+        "industry": "Party Supplies",
+        "name": "Plastic Balloons",
+        "description": "Balloons made from plastic for party decorations.",
+        "granual_type": "PVC"
+    },
+    {
+        "industry": "Party Supplies",
+        "name": "Plastic Confetti",
+        "description": "Small pieces of plastic used as decorative confetti at parties.",
+        "granual_type": "PET"
+    },
+    {
+        "industry": "Party Supplies",
+        "name": "Plastic Streamers",
+        "description": "Long strips of plastic used as decorations for parties.",
+        "granual_type": "PVC"
+    },
+    {
+        "industry": "Party Supplies",
+        "name": "Plastic Party Hats",
+        "description": "Hats made from plastic for guests to wear at parties.",
+        "granual_type": "PP"
+    },
+    {
+        "industry": "Office Equipment",
+        "name": "Plastic Office Chairs",
+        "description": "Chairs made from plastic for use in office environments.",
+        "granual_type": "PP"
+    },
+    {
+        "industry": "Office Equipment",
+        "name": "Plastic Office Desks",
+        "description": "Desks made from plastic for use in office environments.",
+        "granual_type": "PP"
+    },
+    {
+        "industry": "Office Equipment",
+        "name": "Plastic File Cabinets",
+        "description": "Cabinets made from plastic for storing office files and documents.",
+        "granual_type": "PP"
+    },
+    {
+        "industry": "Office Equipment",
+        "name": "Plastic Document Trays",
+        "description": "Trays made from plastic for organizing documents on desks.",
+        "granual_type": "PP"
+    },
+    {
+        "industry": "Office Equipment",
+        "name": "Plastic Pen Holders",
+        "description": "Holders made from plastic for organizing pens and pencils on desks.",
+        "granual_type": "PP"
+    },
+    {
+        "industry": "Office Equipment",
+        "name": "Plastic Desk Organizers",
+        "description": "Organizers made from plastic for keeping office supplies organized on desks.",
+        "granual_type": "PP"
+    },
+    {
+        "industry": "Office Equipment",
+        "name": "Plastic Mouse Pads",
+        "description": "Pads made from plastic for providing a smooth surface for computer mice.",
+        "granual_type": "PVC"
+    },
+    {
+        "industry": "Office Equipment",
+        "name": "Plastic Cable Management",
+        "description": "Products made from plastic for organizing and managing cables in office environments.",
+        "granual_type": "PP"
+    },
+    {
+        "industry": "Office Equipment",
+        "name": "Plastic Waste Bins",
+        "description": "Bins made from plastic for waste disposal in office environments.",
+        "granual_type": "PP"
+    },
+    {
+        "industry": "Office Equipment",
+        "name": "Plastic Clipboards",
+        "description": "Clipboards made from plastic for holding documents and papers.",
+        "granual_type": "PP"
+    },
+    {
+        "industry": "Cleaning Supplies",
+        "name": "Plastic Buckets",
+        "description": "Buckets made from plastic for holding water and cleaning solutions.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Cleaning Supplies",
+        "name": "Plastic Mops",
+        "description": "Mops made from plastic for cleaning floors.",
+        "granual_type": "PP"
+    },
+    {
+        "industry": "Cleaning Supplies",
+        "name": "Plastic Brooms",
+        "description": "Brooms made from plastic for sweeping floors.",
+        "granual_type": "PP"
+    },
+    {
+        "industry": "Cleaning Supplies",
+        "name": "Plastic Dustpans",
+        "description": "Dustpans made from plastic for collecting dust and debris.",
+        "granual_type": "PP"
+    },
+    {
+        "industry": "Cleaning Supplies",
+        "name": "Plastic Scrub Brushes",
+        "description": "Brushes made from plastic for scrubbing surfaces clean.",
+        "granual_type": "PP"
+    },
+    {
+        "industry": "Cleaning Supplies",
+        "name": "Plastic Spray Bottles",
+        "description": "Bottles made from plastic for spraying cleaning solutions.",
+        "granual_type": "PET"
+    },
+    {
+        "industry": "Cleaning Supplies",
+        "name": "Plastic Cleaning Caddies",
+        "description": "Caddies made from plastic for organizing and carrying cleaning supplies.",
+        "granual_type": "PP"
+    },
+    {
+        "industry": "Cleaning Supplies",
+        "name": "Plastic Trash Bins",
+        "description": "Bins made from plastic for disposing of trash.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Cleaning Supplies",
+        "name": "Plastic Cleaning Cloths",
+        "description": "Cloths made from plastic fibers for cleaning surfaces.",
+        "granual_type": "PP"
+    },
+    {
+        "industry": "Cleaning Supplies",
+        "name": "Plastic Squeegees",
+        "description": "Squeegees made from plastic for cleaning windows and smooth surfaces.",
+        "granual_type": "PP"
+    }
+]

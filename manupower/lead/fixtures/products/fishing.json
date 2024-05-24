@@ -1,0 +1,62 @@
+[
+    {
+        "industry": "Fishing",
+        "name": "Plastic Fishing Lures",
+        "description": "Artificial fishing lures made from plastic, designed to attract fish.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Fishing",
+        "name": "Plastic Fishing Rod Handles",
+        "description": "Durable plastic handles for fishing rods, providing grip and comfort.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Fishing",
+        "name": "Plastic Tackle Boxes",
+        "description": "Plastic boxes for organizing and storing fishing tackle and accessories.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Fishing",
+        "name": "Plastic Fishing Nets",
+        "description": "Nets made from plastic for catching fish in various fishing environments.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Fishing",
+        "name": "Plastic Bait Containers",
+        "description": "Containers made from plastic for storing live bait and fishing lures.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Fishing",
+        "name": "Plastic Fish Stringers",
+        "description": "Plastic stringers for holding and organizing caught fish.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Fishing",
+        "name": "Plastic Floats",
+        "description": "Buoyant plastic floats used in fishing lines to keep bait at the desired depth.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Fishing",
+        "name": "Plastic Fish Measuring Boards",
+        "description": "Plastic boards for measuring the size of caught fish.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Fishing",
+        "name": "Plastic Ice Fishing Sleds",
+        "description": "Plastic sleds for transporting fishing gear and supplies on ice.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Fishing",
+        "name": "Plastic Fish Baskets",
+        "description": "Plastic baskets for storing and transporting caught fish.",
+        "granual_type": "LDPE"
+    }
+]

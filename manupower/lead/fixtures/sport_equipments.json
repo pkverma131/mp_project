@@ -1,0 +1,62 @@
+[
+    {
+        "industry": "Sports Equipment",
+        "name": "Basketball",
+        "description": "Standard basketball for playing in courts.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Sports Equipment",
+        "name": "Football",
+        "description": "Regulation size football for playing on fields.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Sports Equipment",
+        "name": "Tennis Racket",
+        "description": "Racket used for playing tennis.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Sports Equipment",
+        "name": "Baseball Bat",
+        "description": "Bat used in baseball games.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Sports Equipment",
+        "name": "Golf Clubs",
+        "description": "Set of golf clubs for playing golf.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Sports Equipment",
+        "name": "Hockey Stick",
+        "description": "Stick used in hockey matches.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Sports Equipment",
+        "name": "Soccer Ball",
+        "description": "Standard soccer ball for playing on fields.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Sports Equipment",
+        "name": "Cricket Bat",
+        "description": "Bat used in cricket matches.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Sports Equipment",
+        "name": "Swimming Goggles",
+        "description": "Goggles used for swimming.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Sports Equipment",
+        "name": "Badminton Shuttlecock",
+        "description": "Shuttlecock used in badminton games.",
+        "granual_type": "LDPE"
+    }
+]

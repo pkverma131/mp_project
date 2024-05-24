@@ -1,0 +1,62 @@
+[
+    {
+        "industry": "Water Storage",
+        "name": "Plastic Water Tanks",
+        "description": "Large tanks made from high-density plastic for storing potable water in residential, commercial, and industrial settings.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Water Storage",
+        "name": "Plastic Water Barrels",
+        "description": "Barrels made from durable plastic for collecting and storing rainwater or other non-potable water sources.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Water Storage",
+        "name": "Plastic Water Jugs",
+        "description": "Portable water jugs made from food-grade plastic for storing and transporting drinking water.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Water Storage",
+        "name": "Plastic Water Cisterns",
+        "description": "Large underground or above-ground cisterns made from durable plastic for storing large volumes of water.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Water Storage",
+        "name": "Plastic Water Bottles",
+        "description": "Reusable water bottles made from safe, BPA-free plastic materials for personal use.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Water Storage",
+        "name": "Plastic Water Dispensers",
+        "description": "Water dispensers made from plastic, designed to hold and dispense water from large water bottles.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Water Storage",
+        "name": "Plastic Rainwater Harvesting Tanks",
+        "description": "Tanks made from plastic for harvesting and storing rainwater for irrigation and other non-potable uses.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Water Storage",
+        "name": "Plastic Emergency Water Storage Bags",
+        "description": "Flexible plastic bags designed for emergency water storage, easily collapsible and portable.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Water Storage",
+        "name": "Plastic Water Storage Cubes",
+        "description": "Cubic containers made from plastic for efficient water storage in limited spaces.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Water Storage",
+        "name": "Plastic Water Transport Containers",
+        "description": "Containers made from durable plastic for safely transporting water over long distances.",
+        "granual_type": "HDPE"
+    }
+]

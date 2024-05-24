@@ -1,0 +1,122 @@
+[
+    {
+        "industry": "Cosmetic Packaging",
+        "name": "Plastic Lotion Bottles",
+        "description": "Bottles made from plastic for packaging and dispensing lotions.",
+        "granual_type": "PET"
+    },
+    {
+        "industry": "Cosmetic Packaging",
+        "name": "Plastic Cosmetic Jars",
+        "description": "Jars made from plastic for storing creams, gels, and other cosmetic products.",
+        "granual_type": "PET"
+    },
+    {
+        "industry": "Cosmetic Packaging",
+        "name": "Plastic Lip Balm Tubes",
+        "description": "Tubes made from plastic for packaging lip balms and ointments.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Cosmetic Packaging",
+        "name": "Plastic Compact Cases",
+        "description": "Cases made from plastic for holding pressed powder, blush, and other makeup products.",
+        "granual_type": "ABS"
+    },
+    {
+        "industry": "Cosmetic Packaging",
+        "name": "Plastic Pump Dispensers",
+        "description": "Pump dispensers made from plastic for easy dispensing of liquid cosmetic products.",
+        "granual_type": "PP"
+    },
+    {
+        "industry": "Cosmetic Packaging",
+        "name": "Plastic Perfume Bottles",
+        "description": "Bottles made from plastic for packaging and dispensing perfumes and fragrances.",
+        "granual_type": "PET"
+    },
+    {
+        "industry": "Cosmetic Packaging",
+        "name": "Plastic Makeup Brushes",
+        "description": "Handles made from plastic for makeup brushes used in cosmetic applications.",
+        "granual_type": "PP"
+    },
+    {
+        "industry": "Cosmetic Packaging",
+        "name": "Plastic Airless Bottles",
+        "description": "Airless bottles made from plastic for packaging skincare and cosmetic products without air exposure.",
+        "granual_type": "PET"
+    },
+    {
+        "industry": "Cosmetic Packaging",
+        "name": "Plastic Eyeliner Pencils",
+        "description": "Pencils made from plastic for packaging and applying eyeliner.",
+        "granual_type": "PP"
+    },
+    {
+        "industry": "Cosmetic Packaging",
+        "name": "Plastic Nail Polish Bottles",
+        "description": "Bottles made from plastic for packaging and dispensing nail polish.",
+        "granual_type": "PET"
+    },
+    {
+        "industry": "Cosmetic Packaging",
+        "name": "Plastic Mascara Tubes",
+        "description": "Tubes made from plastic for packaging and applying mascara.",
+        "granual_type": "PP"
+    },
+    {
+        "industry": "Cosmetic Packaging",
+        "name": "Plastic Foundation Bottles",
+        "description": "Bottles made from plastic for packaging liquid foundation makeup.",
+        "granual_type": "PET"
+    },
+    {
+        "industry": "Cosmetic Packaging",
+        "name": "Plastic Spray Bottles",
+        "description": "Spray bottles made from plastic for misting cosmetic products.",
+        "granual_type": "PET"
+    },
+    {
+        "industry": "Cosmetic Packaging",
+        "name": "Plastic Cosmetic Tubes",
+        "description": "Tubes made from plastic for packaging creams, gels, and other cosmetic products.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Cosmetic Packaging",
+        "name": "Plastic Cosmetic Containers",
+        "description": "Various containers made from plastic for holding a wide range of cosmetic products.",
+        "granual_type": "PET"
+    },
+    {
+        "industry": "Cosmetic Packaging",
+        "name": "Plastic Deodorant Sticks",
+        "description": "Containers made from plastic for packaging and applying deodorant.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Cosmetic Packaging",
+        "name": "Plastic Roll-On Bottles",
+        "description": "Bottles made from plastic for roll-on deodorants and skincare products.",
+        "granual_type": "PET"
+    },
+    {
+        "industry": "Cosmetic Packaging",
+        "name": "Plastic Compact Mirrors",
+        "description": "Compact cases with plastic construction for portable mirrors and makeup storage.",
+        "granual_type": "ABS"
+    },
+    {
+        "industry": "Cosmetic Packaging",
+        "name": "Plastic Travel Bottles",
+        "description": "Small plastic bottles for travel-sized cosmetic products.",
+        "granual_type": "PET"
+    },
+    {
+        "industry": "Cosmetic Packaging",
+        "name": "Plastic Cosmetic Caps",
+        "description": "Caps made from plastic for sealing and protecting cosmetic containers.",
+        "granual_type": "PP"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "industry": "Educational Supplies",
+        "name": "Plastic Rulers",
+        "description": "Rulers made from durable plastic material, commonly used in classrooms and offices.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Educational Supplies",
+        "name": "Plastic Scissors",
+        "description": "Lightweight scissors with plastic handles and stainless steel blades, suitable for children's use.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Educational Supplies",
+        "name": "Plastic Pencil Cases",
+        "description": "Cases made from plastic for storing pencils, pens, erasers, and other stationery items.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Educational Supplies",
+        "name": "Plastic Erasers",
+        "description": "Soft plastic erasers used for erasing pencil marks and mistakes without damaging paper.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Educational Supplies",
+        "name": "Plastic Notebooks",
+        "description": "Notebooks with plastic covers for durability and protection against spills and tears.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Educational Supplies",
+        "name": "Plastic Clipboards",
+        "description": "Clipboards made from sturdy plastic material, providing a firm writing surface for students and professionals.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Educational Supplies",
+        "name": "Plastic Book Covers",
+        "description": "Transparent plastic covers for protecting books from wear and tear, spills, and scratches.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Educational Supplies",
+        "name": "Plastic Protractors",
+        "description": "Protractors made from clear plastic for measuring angles accurately in geometry and drafting tasks.",
+        "granual_type": "HDPE"
+    },
+    {
+        "industry": "Educational Supplies",
+        "name": "Plastic Pencil Sharpeners",
+        "description": "Handheld sharpeners made from plastic for sharpening pencils quickly and efficiently.",
+        "granual_type": "LDPE"
+    },
+    {
+        "industry": "Educational Supplies",
+        "name": "Plastic Storage Bins",
+        "description": "Stackable bins made from durable plastic material for organizing and storing stationery items.",
+        "granual_type": "HDPE"
+    }
+]
